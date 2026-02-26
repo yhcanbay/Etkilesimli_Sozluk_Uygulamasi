@@ -53,7 +53,7 @@ Hem Backend mimarisindeki gelişmiş veri tabanı ilişkileri ve tasarım desenl
 
 Bu proje, arka planda ciddi bir mimari mühendislik çalışması barındırmaktadır. Geliştirme sürecinde öne çıkan bazı mimari kararlarımız:
 
-*   **Veritabanı Relasyon Optimizasyonu:** ER Modellemeleri detaylıca yapılarak, Many-to-Many(M2M) ve Many-to-One(M2O) ilişkilerdeki ekleme, silme ve veri tutarsızlığı anormalliklerinin kökten önüne geçtik.
+*   **Veritabanı Relasyon Optimizasyonu:** ER Modellemeleri detaylıca yapılarak, Many-to-Many(M2M) ve Many-to-One(M2O) ilişkilerdeki ekleme, silme ve veri tutarsızlığı anomalilerin kökten önüne geçtik.
 *   **Tasarım Desenleri (Design Patterns) Entegrasyonu:** Kodun tekrar edilebilirliğini azaltmak ve daha modüler bir altyapı (Örn: Dictionary nesnelerinin yönetimi) kurmak adına sistem yeniden düzenledik.
 *   **Güvenilir Frontend Çıkartmaları:** Token yönetiminin Axios interceptor'ları ile otomatik yönetilmesi ve sayfalar arası rotalamada yetkisiz girişleri önleyen(React Router DOM) gelişmiş Guard yapıları sağladık.
 
