@@ -36,15 +36,17 @@ Hem Backend mimarisindeki gelişmiş veri tabanı ilişkileri ve tasarım desenl
 ## 📸 Ekran Görüntüleri ve Akış
 
 ### 1. Ana Sayfa ve Keşfet
-![İçerik Yönetimi](Images/Icerik_Ekrani1.png) 
+![İçerik Yönetimi](Icerik_Ekrani1.png) 
 - - -
-![İçerik Yönetimi](Images/Icerik_Ekrani2.png)
+![İçerik Yönetimi](Icerik_Ekrani2.png)
 - - -
-![İçerik Yönetimi](Images/Icerik_Ekrani3.png)
+![İçerik Yönetimi](Icerik_Ekrani3.png)
 - - -
-![İçerik Yönetimi](Images/Icerik_Ekrani4.png)
+![İçerik Yönetimi](Icerik_Ekrani4.png)
 - - - 
-![İçerik Yönetimi](Images/Icerik_Ekrani5.png)
+![İçerik Yönetimi](Icerik_Ekrani5.png)
+- - - 
+![İçerik Yönetimi](Icerik_Ekrani6.png)
 
 *Kullanıcıların içerik ürettiği ve etkileşime girdiği dinamik form ekranları.*
 
