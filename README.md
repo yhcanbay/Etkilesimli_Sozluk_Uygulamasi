@@ -60,6 +60,6 @@ Bu proje, arka planda ciddi bir mimari mühendislik çalışması barındırmakt
 ---
 **Geliştiriciler:**  Enes Hasanbeşe, Muhammed Baki Aslanhan, Muhammed Sabri Şık, Yusuf Harun Canbay
 ---
-Bize ulaşmak veya bu projenin detaylı mimarisi (ER Diyagramları, Tasarım Desenleri ve DB İlişkileri) hakkında daha fazla konuşmak isterseniz profillerimizdeki e-posta adresinden veya LinkedIn üzerinden iletişime geçebilirsiniz.
+Bize ulaşmak veya bu projenin detaylı mimarisi (ER Diyagramları, Tasarım Desenleri ve DB İlişkileri) hakkında daha fazla konuşmak isterseniz profillerimizdeki e-posta adresinden veya LinkedIn üzerinden bizimle iletişime geçebilirsiniz.
 
 
