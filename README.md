@@ -15,7 +15,6 @@ Hem Backend mimarisindeki gelişmiş veri tabanı ilişkileri ve tasarım desenl
 *   **📝 Dinamik Form ve Durum Yönetimi:** Frontend tarafında karmaşık form yapıları Formik ve Yup ile anlık doğrulanırken, uygulamanın genel performansı Redux Toolkit (State Management) ile optimize ettik.
 
 ## 💻 Kullanılan Teknolojiler ve Mimari
-yzb
 ### Frontend (İstemci - Client)
 *   **Geliştirme Ortamı:** React.js ve Vite
 *   **State Management:** Redux Toolkit (Merkezi durum yönetimi için)
